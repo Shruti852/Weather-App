@@ -1,5 +1,5 @@
 # Weather_App
-A beautiful [WeatherApp](file:///C:/Users/91900/Documents/projects/Weather%20App/WA.html) for Windows. 
+ A web application which will tell the users about the weather details of any particular location.
 
 ## About
 This is a personal project built in my spare time for learning purposes.
