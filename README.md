@@ -1,2 +1,3 @@
-# Weather-App
-#This is my First project.
+# About
+# This is a personal project built in my spare time for learning purposes.
+
